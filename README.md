@@ -1,0 +1,1 @@
+turkcell geleceği yazanlar c# programlama ve algoritma eğitimi kapsamında yapılan çalışmaları içermektedir.

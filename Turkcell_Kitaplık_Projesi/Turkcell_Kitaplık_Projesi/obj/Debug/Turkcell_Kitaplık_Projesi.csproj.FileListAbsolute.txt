@@ -1,0 +1,7 @@
+C:\Users\PINAR\Desktop\Geleceği Yazanlar\Turkcell_Kitaplık_Projesi\Turkcell_Kitaplık_Projesi\bin\Debug\Turkcell_Kitaplık_Projesi.exe.config
+C:\Users\PINAR\Desktop\Geleceği Yazanlar\Turkcell_Kitaplık_Projesi\Turkcell_Kitaplık_Projesi\bin\Debug\Turkcell_Kitaplık_Projesi.exe
+C:\Users\PINAR\Desktop\Geleceği Yazanlar\Turkcell_Kitaplık_Projesi\Turkcell_Kitaplık_Projesi\bin\Debug\Turkcell_Kitaplık_Projesi.pdb
+C:\Users\PINAR\Desktop\Geleceği Yazanlar\Turkcell_Kitaplık_Projesi\Turkcell_Kitaplık_Projesi\obj\Debug\Turkcell_Kitaplık_Projesi.csproj.AssemblyReference.cache
+C:\Users\PINAR\Desktop\Geleceği Yazanlar\Turkcell_Kitaplık_Projesi\Turkcell_Kitaplık_Projesi\obj\Debug\Turkcell_Kitaplık_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\PINAR\Desktop\Geleceği Yazanlar\Turkcell_Kitaplık_Projesi\Turkcell_Kitaplık_Projesi\obj\Debug\Turkcell_Kitaplık_Projesi.exe
+C:\Users\PINAR\Desktop\Geleceği Yazanlar\Turkcell_Kitaplık_Projesi\Turkcell_Kitaplık_Projesi\obj\Debug\Turkcell_Kitaplık_Projesi.pdb
